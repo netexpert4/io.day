@@ -2,7 +2,7 @@
 
 [![IO.day](https://i.imgur.com/nEceukl.png)](https://blog.google/outreach-initiatives/entrepreneurs/today-dotday/) &nbsp; &nbsp; [![Discord](https://i.imgur.com/1NagNiU.png)](https://discord.gg/ZTQK3W2j42)
 
-IO.DAY is a free subdomain service that allows **everyone** to get their own subdomain, such as foo.io.day or radio.io.day, for their website.
+"Hello everyone, I have archived the repository for the time being. It appears that "io.day" is not an ideal option for most of you, mainly because HSTS is enabled by default. I will be launching a new website soon, so I have begun archiving the repository."
 
 
 
