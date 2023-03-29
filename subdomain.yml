@@ -223,6 +223,12 @@ NS records:
   - name: biz
     value: georgia.ns.cloudflare.com
     ttl: "86400"
+    name: ca
+    value: meiling.ns.cloudflare.com
+    ttl: "86400"
+  - name: ca
+    value: wilson.ns.cloudflare.com
+    ttl: "86400"
 
 # Records of type A are exclusively utilized for IPv4.
 A records:
